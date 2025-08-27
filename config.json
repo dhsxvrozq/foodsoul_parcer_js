@@ -1,0 +1,8 @@
+{
+  "url": "https://djari.ru/",
+  "pick_up_xpath": "/html/body/div[2]/div[2]/main/section/div[4]/div[2]/div/div/div[1]/div/div[2]/div[2]/button",
+  "ok_xpath": "/html/body/div[2]/div[2]/div[4]/div[2]/div/div/div[3]/button[2]",
+  "categories": "/html/body/div[2]/div[2]/main/section/div[2]/div/a[position()>1]",
+  "titles": "/html/body/div[2]/div[2]/main/section/div[3]/div[*]/div[2]/div[1]/a",
+  "prices": "/html/body/div[2]/div[2]/main/section/div[3]/div[*]/div[2]/div[2]/div[2]/div[1]/span"
+}

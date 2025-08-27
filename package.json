@@ -1,0 +1,15 @@
+{
+  "name": "djari-scraper",
+  "version": "1.0.0",
+  "description": "Парсер для сайта djari.ru",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.10.0"
+  },
+  "keywords": ["scraper", "selenium", "parser"],
+  "author": "John Smith",
+  "license": "MIT"
+}
